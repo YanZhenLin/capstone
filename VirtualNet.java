@@ -15,6 +15,7 @@ import java.util.Scanner;
 import java.io.*;
 import java.io.File;
 
+//this class is for multi-threading purposes
 public class VirtualNet {
     
     private static Scanner scanner = new Scanner(System.in);
